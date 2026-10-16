@@ -20,7 +20,7 @@ Este programa en RISC-V Assembly permite visualizar el juego "Pong", compilado p
   - 🗂️ Base Address: `heap`
   - "Connect to Program"
 - ✅ Acceso al **Keyboard** in RARS:
-  - "Connect to program"
+  - "Connect to Program"
 
 ## 🚀 Manual del videojuego
 ### 📝 Instrucciones de Acceso y Configuración
@@ -38,7 +38,7 @@ Display Width in Pixels: 512
 Display Height in Pixels: 256
 Base address for display: 0x10040000 (heap)
 
-![Texto alternativo](pong2.jpg)
+![Texto alternativo](pong2.png)
 
 4) Haga clic en el botón Connect to Program en la parte inferior de la ventana del display.
 
