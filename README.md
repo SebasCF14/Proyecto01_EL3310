@@ -2,6 +2,9 @@
 ## Descipción del proyecto
 Este programa en RISC-V Assembly permite visualizar el juego "Pong", compilado por medio del simulador RARS. Este corresponde al Proyecto Corto #1 del curso "Diseño de Sistemas Digitales" EL-3310 de la Escuela de Ingeniería Electrónica del Instituto Tecnológico de Costa Rica.
 
+### Gameplay del juego
+https://youtu.be/0oBhAlISlsk
+
 ### Características del juego
 - 🕹️ **Juego para dos jugadores**: Se juega por medio de dos personas que interactúan con los controles del teclado.
 - 🖼️ **Bitmap Display**: Utiliza el Bitmap Display de RARS para mostrar la interfaz gráfica del videojuego.
