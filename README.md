@@ -59,7 +59,7 @@ Ambos jugadores comparten el mismo teclado físico, enviando los comandos a trav
 - 👤 **Player 2**: `S` (up), `D` (down)
 
 ### 🎯 Objetivo y Reglas:
-El objetivo del juego es evitar que la bola pase tu paleta defensiva. Mueve tu paleta verticalmente para hacer rebotar la bola hacia el lado contrario. Cada vez que tu oponente no logre devolver la bola, tú ganarás un punto.
+El objetivo del juego es evitar que la bola pase su paleta defensiva. Mueva su paleta verticalmente para hacer rebotar la bola hacia el lado contrario. Cada vez que su oponente no logre devolver la bola, usted ganará un punto que se muestra en pantalla.
 
 El primer jugador en alcanzar los 10 puntos será declarado ganador y el juego terminará.
 
