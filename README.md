@@ -25,33 +25,28 @@ Este programa en RISC-V Assembly permite visualizar el juego "Pong", compilado p
 ## 🚀 Manual del videojuego
 ### 📝 Instrucciones de Acceso y Configuración
 
-RARS requiere que las herramientas visuales e interactivas se conecten al programa antes de jugar. Sigue estos pasos cuidadosamente:
+RARS requiere que las herramientas visuales e interactivas se conecten al programa antes de jugar. Siga estos pasos cuidadosamente:
 
-Abre el emulador RARS 1.6 y carga el archivo principal del código ensamblador (.asm).
+1) Abra el emulador RARS 1.6 y cargue el archivo principal del código ensamblador (.asm).
 
-Dirígete al menú superior y selecciona Tools -> Bitmap Display.
+2) Diríjase al menú superior y seleccione Tools -> Bitmap Display.
 
-Configura los parámetros del Bitmap Display exactamente de la siguiente manera para garantizar que los gráficos calcen en la pantalla:
-
+3) Configure los parámetros del Bitmap Display exactamente de la siguiente manera para garantizar que los gráficos calcen en la pantalla:
 Unit Width in Pixels: 8
-
 Unit Height in Pixels: 8
-
-Display Width in Pixels: 256
-
+Display Width in Pixels: 512
 Display Height in Pixels: 256
-
 Base address for display: 0x10040000 (heap)
 
-Haz clic en el botón Connect to Program en la parte inferior de la ventana del display.
-
-Dirígete nuevamente al menú superior y selecciona Tools -> Keyboard and Display MMIO Simulator.
-
-Haz clic en Connect to Program en esta nueva ventana.
-
-Ensambla el código (presionando el botón del destornillador y la llave o F3) y ejecútalo (presionando el botón de Play verde o F5).
-
 ![Texto alternativo](pong2.jpg)
+
+4) Haga clic en el botón Connect to Program en la parte inferior de la ventana del display.
+
+5) Diríjase nuevamente al menú superior y selecciona Tools -> Keyboard and Display MMIO Simulator.
+
+6) Haga clic en Connect to Program en esta nueva ventana.
+
+7) Ensamble el código (presionando el botón del destornillador y la llave o F3) y ejecútelo (presionando el botón de Play verde o F5).
 
 ### 🏓 Cómo Jugar
 
