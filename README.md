@@ -32,11 +32,11 @@ RARS requiere que las herramientas visuales e interactivas se conecten al progra
 2) Diríjase al menú superior y seleccione Tools -> Bitmap Display.
 
 3) Configure los parámetros del Bitmap Display exactamente de la siguiente manera para garantizar que los gráficos calcen en la pantalla:
-Unit Width in Pixels: 8
-Unit Height in Pixels: 8
-Display Width in Pixels: 512
-Display Height in Pixels: 256
-Base address for display: 0x10040000 (heap)
+- Unit Width in Pixels: 8
+- Unit Height in Pixels: 8
+- Display Width in Pixels: 512
+- Display Height in Pixels: 256
+- Base address for display: 0x10040000 (heap)
 
 ![Texto alternativo](pong2.png)
 
